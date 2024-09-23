@@ -1,5 +1,5 @@
-USERNAME = YOUR_DOCKERHUB_USERNAME
-REPO = YOUR_DOCKERHUB_REPO_NAME
+USERNAME = iamdimadem
+REPO = fullstack
 
 # Colors for output
 RED = \033[0;31m
